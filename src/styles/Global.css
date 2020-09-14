@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rasa&family=Roboto:ital,wght@0,400;1,400;1,700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+head,body,#root{
+    width: 100vw;
+}
+
+*,input, button{
+    font-family:  Roboto,sans-serif;
+    border: 0;
+    outline: 0;
+}
+button{
+    cursor: pointer;
+}
