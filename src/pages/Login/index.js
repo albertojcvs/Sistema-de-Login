@@ -56,7 +56,7 @@ export default function Login() {
         </div>
       </div>
 
-      <button className="submit-button">Login</button>
+      <button className="submit-button">Entrar</button>
     </form>
   );
 }
