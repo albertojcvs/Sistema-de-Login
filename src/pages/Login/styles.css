@@ -24,7 +24,7 @@
 
   background-color: #082336;
 }
-.user-input{
+.user-input:focus-within{
   border: 2px solid rgba(56, 135, 191,1);
 }
 .user-input input {
@@ -76,6 +76,7 @@
   justify-content: center;
   align-items: center;
 }
+
 
 .forget-password a {
   color: #43876f;
