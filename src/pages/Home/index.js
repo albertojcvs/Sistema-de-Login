@@ -13,7 +13,7 @@ export default function Home() {
             Feito por Alberto Jose.
           </p>
         </section>
-        <div className="button-group">
+        <div className="link-group">
           <Link to="/login">Entrar</Link>
           <Link to="/singup">Criar conta</Link>
         </div>

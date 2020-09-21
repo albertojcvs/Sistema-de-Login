@@ -7,6 +7,10 @@
     
 }
 
+:root{
+    --bg-color: #00121e ;
+}
+
 head,body,#root{
     width: 100vw;
 }
